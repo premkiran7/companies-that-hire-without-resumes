@@ -15,7 +15,7 @@ https://www.macappstudio.com/
 
 ## About
 
-MacAppStudio is an award-winning Multi-Million Dollar App Development Company, founded by Suresh and George, awarded the World's Most Valuable Developers award by Intel. They are a specialized app development company with expertise in end-to-end design, development, deployment, and maintenance of web, mobile, and desktop applications. They have worked with small startups who are just bootstrapping to Fortune 10 companies with revenues of over US$ 55 billion.
+MacAppStudio is an award-winning Multi-Million Dollar App Development Company, founded by Suresh and George, awarded the World's Most Valuable Developers by Intel. They are a specialized app development company with expertise in end-to-end design, development, deployment, and maintenance of web, mobile, and desktop applications. They have worked with small startups who are just bootstrapping to Fortune 10 companies with revenues of over $55 billion.
 
 ## Hiring Process
 
