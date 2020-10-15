@@ -11,10 +11,22 @@ A typical hiring process normally involves resume screening, assignments, techni
 
 ## Companies 
 
-- [MacAppStudio]()
+- [MacAppStudio](https://github.com/premkiran7/companies-that-hire-without-resumes/blob/main/MacAppStudio/MacAppStudio.md)
 
 ## Contributing
 
+- Remember to observe the Code of Conduct i.e Be Kind, Be Positive, Be Helpful
+
+### Steps
+
+- Fork -> Make Changes -> Commit -> Push -> Create PR and [link this issue](https://github.com/premkiran7/companies-that-hire-without-resumes/issues/1)
+- Create a new directory for a company that you want to add to this list having a .md file in it with the company name e.g 
+```
+Directory -> MacAppStudio
+Markdown File -> MacAppStudio.md
+```
+- Use the [template](https://github.com/premkiran7/companies-that-hire-without-resumes/blob/main/MacAppStudio/MacAppStudio.md) for the company profile and make modifications as needed.
+- If you want to add more sections to this template feel free to raise an issue
 
 
 ## Credits
