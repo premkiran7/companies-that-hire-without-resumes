@@ -2,7 +2,7 @@
 
 ## Website
 
-https://www.amazondelivers.jobs/ 
+https://www.amazondelivers.jobs/
 
 ## Key People
 
@@ -26,13 +26,13 @@ Don't need a resume to apply for hourly jobs at Amazon.
 
 ## Read More
 
-- https://www.amazondelivers.jobs/about/amazon-hiring-process/ 
-- https://www.amazondelivers.jobs/faqs 
+- https://www.amazondelivers.jobs/about/amazon-hiring-process/
+- https://www.amazondelivers.jobs/faqs
 
 ## Social Media
 
 [<img align="left" alt="MacAppStudio | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="MacAppStudio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg" />][linkedin]
 
-[youtube]: https://www.youtube.com/user/amazon 
-[linkedin]: https://www.linkedin.com/company/amazon/ 
+[youtube]: https://www.youtube.com/user/amazon
+[linkedin]: https://www.linkedin.com/company/amazon/
