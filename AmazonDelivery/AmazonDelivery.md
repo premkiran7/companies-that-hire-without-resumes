@@ -6,7 +6,7 @@ https://www.amazondelivers.jobs/
 
 ## Key People
 
-- [Jeff Bezos] - CEO
+- [Jeff Bezos](https://twitter.com/JeffBezos) - CEO
 
 ## Founded
 
