@@ -33,5 +33,6 @@ Missouri,USA
 
 [<img align="left" alt="Calendar | Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Calendar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.7.0/icons/linkedin.svg" />][linkedin]
+
 [youtube]: https://www.youtube.com/calendar?sub_confirmation=1
 [linkedin]: https://www.linkedin.com/company/calendar/
