@@ -6,7 +6,7 @@ https://www.calendar.com/
 
 ## Key People
 
-- [John Hall](https://twitter.com/calendar/) - Co-Founder
+- [John Hall](https://www.linkedin.com/in/johnhall4/) - Co-Founder
 
 ## Founded
 
