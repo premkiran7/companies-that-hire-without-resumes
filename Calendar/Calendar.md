@@ -14,7 +14,7 @@ https://www.calendar.com/
 
 ## Location
 
-Seattle, WA, USA
+Draper, Utah, USA
 
 ## About
 
