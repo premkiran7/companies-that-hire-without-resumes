@@ -13,6 +13,7 @@ A typical hiring process normally involves resume screening, assignments, techni
 
 - [MacAppStudio](https://github.com/premkiran7/companies-that-hire-without-resumes/blob/main/MacAppStudio/MacAppStudio.md)
 - [AmazonDelivery](https://github.com/premkiran7/companies-that-hire-without-resumes/blob/main/AmazonDelivery/AmazonDelivery.md)
+- [Calendar](https://github.com/premkiran7/companies-that-hire-without-resumes/blob/main/Calendar/Calendar.md)
 
 ## Contributing
 
