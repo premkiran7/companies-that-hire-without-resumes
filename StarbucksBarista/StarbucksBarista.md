@@ -22,7 +22,7 @@ Baristas are the face of Starbucks. They are an important part of our customersâ
 
 ## Hiring Process
 
-Don't need a resume to apply for barista job at Starbucks. 
+Don't need a resume to apply for barista job at Starbucks.
 
 ## Read More
 
