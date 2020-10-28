@@ -1,4 +1,8 @@
-# MacAppStudio 
+# MacAppStudio
+
+## Type
+
+Company
 
 ## Website
 

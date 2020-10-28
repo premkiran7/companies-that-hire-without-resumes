@@ -9,9 +9,13 @@ This is a repository aimed at documenting companies, platforms where engineers c
 
 A typical hiring process for engineers normally involves resume screening, assignments, technical interviews, HR interviews and much more. Curating resumes that cater to a specific job description although essential is one of the most strenuous tasks involved in any hiring process. That's why I am relieved when I find companies that don't ask their candidates to produce resumes. I guess you too feel the same.
 
-## Companies 
+## Companies
 
 - [MacAppStudio](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/MacAppStudio/MacAppStudio.md)
+
+# Platforms
+
+- [ElevateLabs](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/ElevateLabs/ElevateLabs.md)
 
 ## Contributing
 
@@ -20,12 +24,12 @@ A typical hiring process for engineers normally involves resume screening, assig
 ### Steps
 
 - Fork -> Make Changes -> Commit -> Push -> Create PR and [link this issue](https://github.com/premkiran7/companies-that-hire-without-resumes/issues/1)
-- Create a new directory for a company that you want to add to this list having a .md file in it with the company name e.g 
+- Create a new directory for a company/platform that you want to add to this list having a .md file in it with its respective name e.g 
 ```
 Directory -> MacAppStudio
 Markdown File -> MacAppStudio.md
 ```
-- Use the [template](https://github.com/premkiran7/companies-that-hire-without-resumes/blob/main/MacAppStudio/MacAppStudio.md) for the company profile and make modifications as needed
+- Use the [template](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/MacAppStudio/MacAppStudio.md) for the company/platform profile and make modifications as needed
 - If you want to add more sections to this template feel free to raise an issue
 
 ## Credits
