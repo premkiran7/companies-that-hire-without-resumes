@@ -1,5 +1,5 @@
-# dev-hiring-without-resumes
-This is a repository aimed at documenting companies, platforms where developers can apply and get hired without their resumes
+# hiring-engineers-without-resumes
+This is a repository aimed at documenting companies, platforms where engineers can apply and get hired without the need to produce their resumes
 
 > **Sounds pretty strange and impossible right, well that's why I find it all the more interesting**
 
@@ -7,11 +7,11 @@ This is a repository aimed at documenting companies, platforms where developers 
 
 <img src="https://image.freepik.com/free-vector/hiring-process-infographic_23-2148621468.jpg" alt="Hiring Process Infographic" />
 
-A typical hiring process for software engineers/developers normally involves resume screening, assignments, technical interviews, HR interviews and much more. Curating resumes that cater to a specific job description is one of the most strenuous tasks involved in any hiring process. That's why I am relieved when I find companies that don't ask their candidates to produce resumes. I guess you too feel the same.
+A typical hiring process for engineers normally involves resume screening, assignments, technical interviews, HR interviews and much more. Curating resumes that cater to a specific job description although essential is one of the most strenuous tasks involved in any hiring process. That's why I am relieved when I find companies that don't ask their candidates to produce resumes. I guess you too feel the same.
 
 ## Companies 
 
-- [MacAppStudio](https://github.com/premkiran7/dev-hiring-without-resumes/blob/main/MacAppStudio/MacAppStudio.md)
+- [MacAppStudio](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/MacAppStudio/MacAppStudio.md)
 
 ## Contributing
 
