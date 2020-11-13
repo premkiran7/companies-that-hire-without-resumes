@@ -16,6 +16,7 @@ A typical hiring process for engineers normally involves resume screening, assig
 # Platforms
 
 - [ElevateLabs](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/ElevateLabs/ElevateLabs.md)
+- [CodeJudge](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/CodeJudge/CodeJudge.md)
 
 ## Contributing
 
