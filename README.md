@@ -13,7 +13,7 @@ A typical hiring process for engineers normally involves resume screening, assig
 
 - [MacAppStudio](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/MacAppStudio/MacAppStudio.md)
 
-# Platforms
+## Platforms
 
 - [ElevateLabs](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/ElevateLabs/ElevateLabs.md)
 - [CodeJudge](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/CodeJudge/CodeJudge.md)
@@ -31,6 +31,7 @@ Directory -> MacAppStudio
 Markdown File -> MacAppStudio.md
 ```
 - Use the [template](https://github.com/premkiran7/hiring-engineers-without-resumes/blob/main/MacAppStudio/MacAppStudio.md) for the company/platform profile and make modifications as needed
+- Update this readme in the appropriate section with the company/platform you have added
 - If you want to add more sections to this template feel free to raise an issue
 
 ## Credits
