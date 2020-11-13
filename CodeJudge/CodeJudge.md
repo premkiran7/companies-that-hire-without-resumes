@@ -33,6 +33,9 @@ Currently, Codejudge's assessment technology is used by reputed startups like Ca
 ## Hiring Process
 
 Codejudge helps developers show off their skill by building a project and getting fast-tracked to jobs offers.
+- Get started with a 10-minute quiz
+- Solve a real world problem using the technology of your choice
+- Get your skill report and watch the job offers roll in
 
 ## Read More
 
