@@ -30,7 +30,7 @@ Geektrust helps good developers connect with remarkable job opportunities. Curat
 
 ### Create your profile
 
-You will then be shown companies that are potentially interested in your profile.
+- You will then be shown companies that are potentially interested in your profile.
 
 ### Write code
 
@@ -39,7 +39,7 @@ Get interview & job offers
 
 ### Connect with companies
 
-Accept and interview with companies when you decide to. No rush. No spam.
+- Accept and interview with companies when you decide to. No rush. No spam.
 
 ## Read More
 

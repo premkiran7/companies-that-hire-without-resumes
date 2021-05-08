@@ -6,8 +6,8 @@ Platform
 
 ## Website
 
-https://elevatelabs.tech/
-https://www.roc8.careers/
+- https://elevatelabs.tech/
+- https://www.roc8.careers/
 
 ## Key People
 
