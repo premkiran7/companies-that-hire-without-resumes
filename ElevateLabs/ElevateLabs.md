@@ -7,6 +7,7 @@ Platform
 ## Website
 
 https://elevatelabs.tech/
+https://www.roc8.careers/
 
 ## Key People
 
@@ -27,7 +28,7 @@ A job challenge that is open for everyone (i.e student, recent graduates looking
 
 ## Hiring Process
 
-Submit 5 projects, 3 blog posts, and 2 videos before 31st Dec 20. On completion you can get assigned a mentor based on FCFS to review your portfolio, provide feedback. You additionally get a chance to land interviews with their ever-growing list of hiring partners.
+Submit 5 projects, 3 blog posts, and 2 videos before the specified date on the website. On completion you can get assigned a mentor based on FCFS (First Come First Serve) to review your portfolio, provide feedback. You additionally get a chance to land interviews with their ever-growing list of hiring partners.
 
 ## Read More
 
